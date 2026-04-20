@@ -19,7 +19,7 @@ export const Hero = () => {
                   <span className="absolute inline-flex h-full w-full animate-pulse-dot rounded-full bg-[hsl(var(--success))] opacity-75" />
                   <span className="relative inline-flex h-2 w-2 rounded-full bg-[hsl(var(--success))]" />
                 </span>
-                Open to Internships · Summer 2026
+                Open to Internships · Actively Learning & Building
               </span>
             </Reveal>
 
