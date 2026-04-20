@@ -1,3 +1,29 @@
-# Welcome to your Lovable project
+# 🚀 Dinesh Kumar J - Portfolio
 
-TODO: Document your project here
+## 👨‍💻 About Me
+Hi, I'm Dinesh Kumar J, a third-year BTech IT student passionate about Software Development and DevOps.  
+I enjoy building modern web applications and exploring cloud technologies.
+
+## 🛠 Tech Stack
+- React + TypeScript
+- Tailwind CSS
+- Git & GitHub
+- Lovable
+
+## ✨ Features
+- Responsive portfolio website
+- Clean UI with modern design
+- Projects showcase
+- Skills section
+
+## 📂 Projects
+(Add your projects here later)
+
+## 🌐 Live Demo
+(Will add after deploying on Vercel)
+
+## ⚙️ Run Locally
+
+```bash
+npm install
+npm run dev
