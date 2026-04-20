@@ -31,16 +31,15 @@ export const Hero = () => {
 
             <Reveal delay={220}>
               <p className="mt-5 max-w-2xl font-mono text-base text-muted-foreground sm:text-lg">
-                <span className="text-primary">{">"}</span> Fullstack · DevOps · Cloud · AI/ML
+                <span className="text-primary">{">"}</span> Full Staack Developer · DevOps Enthusiast · Cloud Learner
                 <span className="ml-1 inline-block h-4 w-[2px] translate-y-0.5 bg-primary animate-blink" />
               </p>
             </Reveal>
 
             <Reveal delay={320}>
               <p className="mt-6 max-w-2xl text-lg leading-relaxed text-foreground/80 sm:text-xl">
-                3rd-year IT student turning ideas into shipped, production-grade
-                projects — from AI vision systems to dockerized backends. I build
-                things that actually run.
+               3rd-year BTech IT student passionate about building real-world web applications.  
+               I focus on creating clean, responsive projects and continuously learning DevOps and cloud technologies.
               </p>
             </Reveal>
 
