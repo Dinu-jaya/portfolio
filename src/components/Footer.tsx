@@ -7,7 +7,7 @@ export const Footer = () => {
         <div>
           <p className="font-display text-lg font-semibold">Dinesh Kumar J</p>
           <p className="mt-1 font-mono text-xs text-muted-foreground">
-            BTech IT · Coimbatore · © {new Date().getFullYear()}
+            BTech IT · Dindigul · © {new Date().getFullYear()}
           </p>
         </div>
 
