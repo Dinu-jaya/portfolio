@@ -185,7 +185,7 @@ export const Contact = () => {
               </p>
 
               <a
-                href="mailto:dineshkumar@example.com"
+                href="mailto:dineshjayaraman31@gmail.com"
                 className="group flex items-center justify-between rounded-lg border border-border bg-background/40 px-4 py-3 transition-all hover:border-primary/40 hover:text-primary"
               >
                 <span className="flex items-center gap-3">
@@ -198,7 +198,7 @@ export const Contact = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/dinesh-kumar-j-82975b343"
                 target="_blank"
                 rel="noreferrer"
                 className="group flex items-center justify-between rounded-lg border border-border bg-background/40 px-4 py-3 transition-all hover:border-primary/40 hover:text-primary"
@@ -213,7 +213,7 @@ export const Contact = () => {
               </a>
 
               <a
-                href="https://github.com/"
+                href="//github.com/Dinu-jaya"
                 target="_blank"
                 rel="noreferrer"
                 className="group flex items-center justify-between rounded-lg border border-border bg-background/40 px-4 py-3 transition-all hover:border-primary/40 hover:text-primary"
