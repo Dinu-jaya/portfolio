@@ -20,7 +20,7 @@ I enjoy building modern web applications and exploring cloud technologies.
 (Add your projects here later)
 
 ## 🌐 Live Demo
-(Will add after deploying on Vercel)
+https://portfolio-flax-two-94.vercel.app/
 
 ## ⚙️ Run Locally
 
