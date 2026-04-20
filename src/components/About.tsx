@@ -54,7 +54,7 @@ export const About = () => {
                   // quick facts
                 </p>
                 <ul className="mt-3 space-y-2 text-sm">
-                  <li>📍 Coimbatore, Tamil Nadu</li>
+                  <li>📍 Dindigul, Tamil Nadu</li>
                   <li>🎓 BTech IT · 3rd Year</li>
                   <li>♟️ Strategic thinker, chess-trained</li>
                   <li>⚡ Ships projects end-to-end</li>
